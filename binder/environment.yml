@@ -12,7 +12,9 @@ dependencies:
   - dask
   - distributed
   - gcsfs
+  - tqdm
   - intake
+  - intake-esm
   - intake-xarray
   - s3fs
   - scikit-image
